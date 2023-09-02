@@ -15,7 +15,7 @@ This study will apply metagenomics approaches to reveal the soil microbial diver
 
 ## Method 
 
-![image](file:///home/isd/Downloads/PROCESSING%20PIPELINE%20(2).pdf)
+![image](https://drive.google.com/drive/folders/1D4sWto261oost8e2gzHdOGQympzctKbM)
 
 
 
