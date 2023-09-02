@@ -15,7 +15,7 @@ This study will apply metagenomics approaches to reveal the soil microbial diver
 
 ## Method 
 
-![image](https://drive.google.com/drive/folders/1D4sWto261oost8e2gzHdOGQympzctKbM)
+![image](https://drive.google.com/1n4WMPtUJVxPEUaMyg93mdKtVOgDXhFdU/view?usp=sharing)
 
 
 
