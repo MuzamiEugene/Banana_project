@@ -1,5 +1,5 @@
 # Banana_project
-BananaSoil metagenomics
+Banana Soil metagenomics
 
 ## Metagenomic analysis of bacterial communities in rhizospheric soils from smallholder banana-producing agroecosystems in Kenya
 #Background Information 
