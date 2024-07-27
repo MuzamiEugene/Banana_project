@@ -14,41 +14,6 @@ Despite the abundance of bacterial species in soil, more than 99% of these speci
 To overcome this limitation, meta-omic approaches using next-generation sequencing methods are being applied to explore metagenomes from the environmental samples for the identification of both the taxa and essential genes of special functions or bioactive compounds (Nwachukwu & Babalola, 2022). Currently, two main methods for studying microbial communities using high-throughput sequencing are used: marker gene studies and whole-genome shotgun (WGS) metagenomics (Perez-Mon et al., 2021)
 ###### Study objectives
  
-Herein, we applied both Illumina Novaseq high-throughput amplicon and shotgun sequencing technologies to reveal the composition and functional potential of the bacterial communities in the rhizospheric soils collected from smallholder banana-producing agroecosystems in Kiambu County, Kenya. We also investigated the variation of the soil physicochemical properties within the respective agroecosystems
+Herein, we applied both Illumina Novaseq high-throughput amplicon and shotgun sequencing technologies to reveal the composition and functional potential of the bacterial communities in the rhizospheric soils collected from smallholder banana-producing agroecosystems in Kiambu County, Kenya. We also investigated the variation of the soil physicochemical properties within the respective agroecosystems.
 
 ## Method 
-Experimental design
-
-<img src="https://drive.google.com/uc?id=1n4WMPtUJVxPEUaMyg93mdKtVOgDXhFdU"
-     alt="sample image"
-     style="display: block; margin-right: auto; margin-left: auto; width: 90%;
-     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" />
-     
-
-Sequence data processing workflow
-
-
-<img src="https://drive.google.com/uc?id=1ChdOxRoyhHbikq4fNxN21IJ-7qVBKuo0"
-     alt="sample image"
-     style="display: block; margin-right: auto; margin-left: auto; width: 90%;
-     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" />
-     
-
- Statistical analysis workflow    
-
-     
-<img src="https://drive.google.com/uc?id=1cKvVrMX9U6-13ggOt26XykE_SYvbhWnt"
-     alt="sample image"
-     style="display: block; margin-right: auto; margin-left: auto; width: 90%;
-     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" />
-     
-
-Map showing Banana soil collection points 
-
-
-<img src="https://drive.google.com/uc?id=1SRTLBTFLGDo2xP7n9LlTGrFgm4Mvv1nz"
-     alt="sample image"
-     style="display: block; margin-right: auto; margin-left: auto; width: 90%;
-     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" />
-
-
